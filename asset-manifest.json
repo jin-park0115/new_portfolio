@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio_/static/css/main.c7c1ff28.css",
+    "main.js": "/portfolio_/static/js/main.a58c458f.js",
+    "static/media/증명사진.jpeg": "/portfolio_/static/media/증명사진.6e326960700e80b9c331.jpeg",
+    "static/media/TS-icon.svg": "/portfolio_/static/media/TS-icon.e21caf248319ce71b7dfad0ad9a566a4.svg",
+    "static/media/트립토크.jpeg": "/portfolio_/static/media/트립토크.611eec8545580d0c0355.jpeg",
+    "static/media/CSS-icon.svg": "/portfolio_/static/media/CSS-icon.9cbe3b2baedb61b9c9f3f6c94472e981.svg",
+    "static/media/Styled-icon.svg": "/portfolio_/static/media/Styled-icon.49d7817c622a1c543921d7900d0b0bc1.svg",
+    "static/media/필름.jpeg": "/portfolio_/static/media/필름.c3415ad1516cff69b7c4.jpeg",
+    "static/media/React-icon.svg": "/portfolio_/static/media/React-icon.3f5accce12526d60acad89d9b1428165.svg",
+    "static/media/github.svg": "/portfolio_/static/media/github.6560d440cdcd0e7fd210a02b6366e3eb.svg",
+    "static/media/JS-icon.svg": "/portfolio_/static/media/JS-icon.bb0ba347373332c2caf6623f4466e3d6.svg",
+    "static/media/HTML-icon.svg": "/portfolio_/static/media/HTML-icon.0a79ffad2f3ff20be26f728252e50d5b.svg",
+    "static/media/날씨웹.jpg": "/portfolio_/static/media/날씨웹.ae8e7e46320b65f38c67.jpg",
+    "static/media/Redux-icon.svg": "/portfolio_/static/media/Redux-icon.d1e565d51f91c156db8db1c95faa9900.svg",
+    "index.html": "/portfolio_/index.html",
+    "static/media/mail.svg": "/portfolio_/static/media/mail.33ab66939b6494158363a0686c7d0f5a.svg",
+    "static/media/back.svg": "/portfolio_/static/media/back.da6030534d00a936667e62e9ab4947ec.svg",
+    "static/media/아래화살표.svg": "/portfolio_/static/media/아래화살표.730839144c126385607bf09f84d35c4f.svg",
+    "main.c7c1ff28.css.map": "/portfolio_/static/css/main.c7c1ff28.css.map",
+    "main.a58c458f.js.map": "/portfolio_/static/js/main.a58c458f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c1ff28.css",
+    "static/js/main.a58c458f.js"
+  ]
+}
