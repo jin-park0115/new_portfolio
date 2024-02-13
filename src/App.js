@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
-
+import styled from "styled-components";
+import Header from "./components/Header";
+import MainPage from "./page/MainPage";
+import "./css/init.css";
+import { BrowserRouter } from "react-router-dom";
+import { Routes } from "react-router-dom";
+import { Route } from "react-router-dom";
+import ProjectPage from "./page/ProjectPage";
+import DetailPage from "./page/DetailPage";
+import ContactPage from "./page/ContactPage";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <LayOut>
+        <Header />
+        <Routes>
+          <Route path="/" element={<MainPage />}></Route>
+          <Route path="/projects" element={<ProjectPage />}></Route>
+          <Route path="/project/:id" element={<DetailPage />}></Route>
+          <Route path="/contact" element={<ContactPage />}></Route>
+        </Routes>
+      </LayOut>
+    </BrowserRouter>
   );
 }
 
 export default App;
+
+const LayOut = styled.div`
+  min-height: 100vh;
+  background-color: #302f2f;
+  padding-bottom: 100px;
+`;

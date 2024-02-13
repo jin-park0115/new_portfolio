@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project-name": "Trip-Talk",
+      "project-intro": "TripTalk은 사용자들의 다양한 국내 여행지에서의 추억과 경험을 공유하는 커뮤니티 입니다. 서로의 여행 이야기를 듣고, 새로운 여행 목적지를 찾고, 또 다른 여행을 계획할 수 있는 공간을 제공해주는 새로운 공간입니다.",
+      "image": "../public/트립토크L.jpg",
+      "skills": [
+        "React.js",
+        "TypeScript",
+        "Axios",
+        "Redux",
+        "Styled-Components"
+      ],
+      "period": "2023.09.13 - 2023.10.26",
+      "team": "프론트엔드 3명, 백엔드 3명",
+      "role": "기획, 프론트엔드",
+      "contribution": "3 / 5",
+      "link": [
+        "https://github.com/triptalk-4/triptalk-frontend",
+        "https://antique-koala-cd8.notion.site/Trip-Talk-72ca174db6d74dc3b0f6c3718c99b4e1"
+      ]
+    },
+    {
+      "id": 2,
+      "project-name": "Film",
+      "project-intro": "TMDBAPI를 사용한 영화 정보 웹사이트 입니다. 영화를 검색하고, 영화 정보를 알 수 있는 React웹사이트 입니다.",
+      "image": "../public/필름L.jpg",
+      "skills": [
+        "React.js",
+        "Axios",
+        "Fire-base",
+        "Styled-Components"
+      ],
+      "period": "2023.07.31 - 2023.08.25",
+      "team": "프론트엔드 1명",
+      "role": "기획, 프론트엔드",
+      "contribution": "5 / 5",
+      "link": [
+        "https://github.com/jin-park0115/film",
+        "https://film-flame.vercel.app/"
+      ]
+    },
+    {
+      "id": 3,
+      "project-name": "Weather-Web",
+      "project-intro": "openWeatherMap API를 사용한 간단한 날씨 웹사이트 입니다. 시간대별로 백그라운드 색상이 변합니다. ",
+      "image": "../public/날씨웹L.jpg",
+      "skills": [
+        "React.js",
+        "TypeScript",
+        "Axios",
+        "Styled-Components"
+      ],
+      "period": "2023.12.15 - 2023.12.15",
+      "team": "프론트엔드 1명",
+      "role": "기획, 프론트엔드",
+      "contribution": "5 / 5",
+      "link": [
+        "https://github.com/jin-park0115/Wether-Web"
+      ]
+    }
+  ]
+}
